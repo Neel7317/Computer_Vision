@@ -16,3 +16,9 @@ Use Yolo4 with <a href="https://github.com/Neel7317/Computer_vision/blob/main/Ob
 output will be look like belows..
 
 ![zoo2](https://user-images.githubusercontent.com/65647192/148898206-a6221694-f11d-48bb-92cf-e6666adc90ac.jpg)
+
+Video result:
+
+
+
+
